@@ -50,7 +50,7 @@ export default function LandingPage() {
           tagAnimation="slide-up"
           background={{ variant: "plain" }}
           buttons={[
-            { text: "Book Your Appointment", href: "contact" },
+            { text: "Book Now – Limited Slots", href: "contact" },
             { text: "Call Now", href: "tel:(830) 387-4341" },
           ]}
           buttonAnimation="slide-up"
