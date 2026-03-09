@@ -72,7 +72,6 @@ export default function LandingPage() {
             },
           ]}
           className="min-h-screen"
-          containerClassName="px-4 md:px-8"
           titleClassName="text-5xl md:text-6xl font-bold tracking-tight"
           descriptionClassName="text-lg md:text-xl text-foreground/80 max-w-2xl mx-auto"
           buttonClassName="px-6 py-3 rounded-full font-medium"
